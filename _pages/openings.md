@@ -6,4 +6,4 @@ sitemap: false
 permalink: /vacancies
 ---
 
-We are always looking for new group members with passion, talent, and grit!
+Looking for NOT looking for new members! DO NOT join our discord or you will be perma banned!!s
