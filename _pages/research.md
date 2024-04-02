@@ -14,6 +14,8 @@ Our research utilizes a unique cellular automata model inspired by Conway's Game
 
 
 
+
+
 Murmur
 
 Repo: https://github.com/MaxwellFung/MurmurWebsite
@@ -21,6 +23,8 @@ Repo: https://github.com/MaxwellFung/MurmurWebsite
 murmurmatch.com
 
 Murmur is the dating app that ditches swiping for something more intriguing. Instead of a superficial photo parade, you confidentially enter the usernames of your crushes. If your crush secretly adds you to their list too, then the magic happens! Murmur anonymously notifies you both, igniting a flame of possibility. No more wondering if your barista or cute classmate feels the same way – Murmur lets you discreetly explore potential connections without the pressure of immediate rejection.
+
+
 
 
 
