@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Game of life
 
 Game of life
 
@@ -14,7 +14,7 @@ Our research utilizes a unique cellular automata model inspired by Conway's Game
 
 
 
-
+# 
 
 Murmur
 
