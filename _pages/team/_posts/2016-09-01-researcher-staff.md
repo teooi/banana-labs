@@ -2,9 +2,9 @@
 layout: member
 category: staff
 title: Teo Imoto-Tar
-image: researcher.png
+image: emaan.png
 role: Lab Director
-permalink: 'team/researcher-name'
+permalink: 'team/teoi'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/teo-imoto-tar-a833b123a/
