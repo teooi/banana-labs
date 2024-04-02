@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Emaan Heidari
-image: researcher.png
+image: emaan.png
 role: Lab Director
 permalink: 'team/emaanh'
 social:

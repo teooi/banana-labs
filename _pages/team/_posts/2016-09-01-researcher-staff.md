@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Teo Imoto-Tar
-image: emaan.png
+image: researcher.png
 role: Lab Director
 permalink: 'team/teoi'
 social:
