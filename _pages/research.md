@@ -14,12 +14,13 @@ Our research utilizes a unique cellular automata model inspired by Conway's Game
 
 Murmur is the dating app that ditches swiping for something more intriguing. Instead of a superficial photo parade, you confidentially enter the usernames of your crushes. If your crush secretly adds you to their list too, then the magic happens! Murmur anonymously notifies you both, igniting a flame of possibility. No more wondering if your barista or cute classmate feels the same way – Murmur lets you discreetly explore potential connections without the pressure of immediate rejection.
 
-[Git Repo](https://github.com/MaxwellFung/MurmurWebsite)
-[Murmur](https://murmurmatch.com)
+* [Git Repo](https://github.com/MaxwellFung/MurmurWebsite)
+
+* [Murmur](https://murmurmatch.com)
 
 ## BlitzGo
 
 In our ongoing research, we're developing a fast-paced variant of the ancient strategy game Go, called Blitzgo. Inspired by the "blitzkrieg" tactic of rapid conquest, Blitzgo prioritizes swift territorial dominance. This project delves into the intersection of artificial intelligence and human decision-making. We're currently building an AI model within the game that can learn and adapt its strategies to challenge human players.
 
-[Blitzgo](blitzgo.net)
+* [Blitzgo](blitzgo.net)
 
