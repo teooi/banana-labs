@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "Banana Lab's at Berkeley, UCSD, USC and UMich"
+excerpt: "Banana Labs at Berkeley, UCSD, USC and UMich"
 sitemap: false
 permalink: /
 ---
