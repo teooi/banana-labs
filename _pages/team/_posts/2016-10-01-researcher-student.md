@@ -1,3 +1,4 @@
+<!--
 ---
 layout: member
 category: student
@@ -16,5 +17,4 @@ social:
 education:
  - Education
 ---
-
-WIP
+-->
