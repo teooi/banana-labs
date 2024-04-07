@@ -1,15 +1,15 @@
 ---
 layout: member
 category: staff
-title: Teo Imoto-Tar
-image: 3teo.png
+title: Maxwell Fung
+image: 4maxwell.png
 role: Lab Director
-permalink: 'team/teoi'
+permalink: 'team/emaanh'
 social:
     twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/in/teo-imoto-tar-a833b123a/
+    linkedin: https://www.linkedin.com/in/maxwell-fung-281167244/
     google-scholar: https://scholar.google.fr/
-    github: https://github.com/teooi
+    github: https://github.com/MaxwellFung
     website:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
@@ -17,4 +17,4 @@ education:
  - Education
 ---
 
-WIP
+Does interesting things
