@@ -4,7 +4,7 @@ category: staff
 title: Maxwell Fung
 image: 4maxwell.png
 role: Lab Director
-permalink: 'team/emaanh'
+permalink: 'team/maxwellf'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/maxwell-fung-281167244/
